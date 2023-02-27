@@ -32,7 +32,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" widht="40px" height="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" widht="40px" height="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" widht="40px" height="40px">
-<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" widht="340px" height="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" widht="40px" height="40px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" widht="40px" height="40px">
