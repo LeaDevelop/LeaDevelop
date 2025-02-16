@@ -1,8 +1,12 @@
-### Hello adventurer 👋
+### Hello, explorer! 👋
 
-👩‍💻 I'm Lea, tech adventurer & enthusiast, code wizard wannabe.<br><br>
-Currently working on DevOps engineering tasks in game studio.<br>
+👩‍💻 I'm Lea, tech adventurer & enthusiast, code wizard wannabe.<br>
+Currently working in a game studio on engineering tasks.<br><br>
 Automation • DevOps • Software Architecture • Distributed systems • Observability & Monitoring<br>
-Code • Quality Assurance • Project Management<br><br>
-Learning whole my life, ... no space for boredom.<br>
-Free time is filled with following Art • Games • Movies • Music • Shows • Reading<br>
+Code • Quality Assurance • Project Management • Tools Workshops & Technical documentation <br>
+
+Free time is filled with:
+- spending time with my closest, supporting fellow students
+- deepening programming languages and expanding technical skills
+- exploring, building or contributing to software tools
+- enjoying art • games • movies & shows • music • reading
