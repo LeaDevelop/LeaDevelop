@@ -11,3 +11,5 @@ Free time is filled with:
 - deepening programming languages and expanding technical skills
 - exploring, building or contributing to software tools
 - enjoying art • games • movies & shows • music • reading
+
+### Available for hire, starting July 2025
