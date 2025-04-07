@@ -1,7 +1,7 @@
 ### Hello, explorer! 👋
 
 👩‍💻 I'm Lea, tech adventurer & enthusiast, code wizard wannabe.<br>
-Last 5 years worked in a game studio. Most recent work years involved technical engineering tasks or QA engineering in tools and pipelines department.<br>
+Last 5 years worked in a game studio. Most recent work year involved technical engineering tasks or QA engineering in tools and pipelines department.<br>
 
 automation • tools and pipelines integrations • software architecture • distributed systems • observability & monitoring • code • technical documentation • quality assurance • project management • tools workshops & user guides <br>
 
