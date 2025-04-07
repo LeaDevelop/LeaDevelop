@@ -12,4 +12,4 @@ Free time is filled with:
 - exploring, building or contributing to software tools
 - enjoying art • games • movies & shows • music • reading
 
-### Available for hire, starting July 2025
+### Available for hire❗
