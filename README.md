@@ -27,3 +27,22 @@ Technical frameworks:
 - Game engines: Unreal Engine, Unity, Godot
 - Web frameworks: Laravel, Symfony, React, Django, Flask, Node.js, FastAPI
 - Database technologies: PostgreSQL, MySQL/MariaDB, SQLite, MongoDB, Redis, DynamoDB, ElasticSearch, ClickHouse
+
+Cloud platforms / services:
+- AWS
+- Azure
+
+DevOps / Infrastructure tools
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- SaltStack
+- Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- CI/CD
+  - GitHub Actions
+  - JetBrains TeamCity
+  - Epic Horde
+  - GitLab
+  - Jenkins
