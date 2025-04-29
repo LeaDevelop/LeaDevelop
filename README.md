@@ -46,3 +46,17 @@ DevOps / Infrastructure tools
   - Epic Horde
   - GitLab
   - Jenkins
+
+Testing frameworks:
+- PyTest
+- Selenium
+- Pester
+
+Machine Learning/AI Frameworks:
+- PyTorch
+
+Free time is filled with:
+- spending time with my closest
+- deepening programming languages and expanding technical skills
+- exploring, building or contributing to software tools
+- enjoying art • games • movies & shows • music • reading
