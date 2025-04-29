@@ -17,3 +17,8 @@ My expertise includes:
 - Version control systems and branching strategies
 - Project management and team leadership
 - Technical workshops and knowledge sharing
+
+Programming expertise:
+- Primary language: Python
+- Secondary languages: C#, C++, PHP, Java, JavaScript, TypeScript, Kotlin, Visual Basic
+- Scripting: Bash, PowerShell, Python, Node.js
