@@ -22,3 +22,8 @@ Programming expertise:
 - Primary language: Python
 - Secondary languages: C#, C++, PHP, Java, JavaScript, TypeScript, Kotlin, Visual Basic
 - Scripting: Bash, PowerShell, Python, Node.js
+
+Technical frameworks:
+- Game engines: Unreal Engine, Unity, Godot
+- Web frameworks: Laravel, Symfony, React, Django, Flask, Node.js, FastAPI
+- Database technologies: PostgreSQL, MySQL/MariaDB, SQLite, MongoDB, Redis, DynamoDB, ElasticSearch, ClickHouse
