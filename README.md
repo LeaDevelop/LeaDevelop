@@ -18,6 +18,14 @@ My expertise includes:
 - Project management and team leadership
 - Technical workshops and knowledge sharing
 
+Free time is filled with:
+- spending time with my closest
+- deepening programming languages and expanding technical skills
+- exploring, building or contributing to software tools
+- enjoying art • games • movies & shows • music • reading
+
+<!-- TODO put to portfolio instead
+
 Programming expertise:
 - Primary language: Python
 - Secondary languages: C#, C++, PHP, Java, JavaScript, TypeScript, Kotlin, Visual Basic
@@ -55,8 +63,4 @@ Testing frameworks:
 Machine Learning/AI Frameworks:
 - PyTorch
 
-Free time is filled with:
-- spending time with my closest
-- deepening programming languages and expanding technical skills
-- exploring, building or contributing to software tools
-- enjoying art • games • movies & shows • music • reading
+-->
