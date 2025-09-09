@@ -1,7 +1,7 @@
 ### Hello, explorer! 👋
 
-👩‍💻 I'm Lea, developer, tech adventurer & enthusiast.<br>
-Last 5 years worked in a game studio. Most recent work years involved DevOps tasks or QA engineering in tools and pipelines department.<br>
+I'm Lea, developer, tech adventurer & enthusiast.<br>
+7th year in the game industry, DevOps engineering.<br>
 
 My expertise includes:
 - Object-oriented and functional programming
@@ -20,7 +20,7 @@ My expertise includes:
 
 Free time is filled with:
 - spending time with my closest
-- deepening programming languages and expanding technical skills
+- deepening programming languages, game engine knowledge and expanding technical skills
 - exploring, building or contributing to software tools
 - enjoying art • games • movies & shows • music • reading
 
