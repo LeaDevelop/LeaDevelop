@@ -2,9 +2,11 @@
 
 I'm Lea, developer, tech adventurer & enthusiast. 
 Enjoying my 7th year in the game industry.<br>
-DevOps engineering is my main role, feel free to reach out and connect. Although I'm currently occupied till further notice.
+DevOps engineering is my main role, feel free to reach out and connect hire at leadevelop.net<br> 
+I'm currently wrapping up with my current contract and looking for full-time or contract opportunities for 2026.
 
 My expertise includes:
+- Unreal Engine production pipeline
 - Object-oriented and functional programming
 - API design and implementation
 - Automation and CI/CD pipelines
