@@ -2,8 +2,8 @@
 
 I'm Lea, developer, tech adventurer & enthusiast. 
 Enjoying my 7th year in the game industry.<br>
-DevOps engineering is my main role, feel free to reach out and connect hire at leadevelop.net<br> 
-I'm currently wrapping up with my current contract and looking for full-time or contract opportunities for 2026.
+DevOps / build engineering is my main role, feel free to reach out and connect hire at leadevelop.net<br> 
+I'm currently occupied with part-time contracts until a full-time one grabs my attention.
 
 My expertise includes:
 - Unreal Engine production pipeline
@@ -31,7 +31,7 @@ Free time is filled with:
 
 Programming expertise:
 - Primary language: Python
-- Secondary languages: C#, C++, PHP, Java, JavaScript, TypeScript, Kotlin, Visual Basic
+- Secondary languages: C#, C++, Rust, PHP, Java, JavaScript, TypeScript, Kotlin, Visual Basic
 - Scripting: Bash, PowerShell, Python, Node.js
 
 Technical frameworks:
