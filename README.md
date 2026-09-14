@@ -1,9 +1,8 @@
 ### Hello, explorer! 👋
 
 I'm Lea, developer, tech adventurer & enthusiast. 
-Enjoying my 7th year in the game industry.<br>
-DevOps / build engineering is my main role, feel free to reach out and connect hire at leadevelop.net<br> 
-I'm currently occupied with part-time contracts until a full-time one grabs my attention.
+Enjoying my 7th year in the game industry, currently occupied till rest of 2026.<br>
+DevOps / build engineering is my main role, feel free to reach out and connect, hire at leadevelop.net<br> 
 
 My expertise includes:
 - Unreal Engine production pipeline
